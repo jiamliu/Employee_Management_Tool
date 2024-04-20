@@ -1,4 +1,4 @@
-# Vue/Django Employee Management Tool
+# 📖Vue/Django Employee Management Tool
 
 ## Introduction
 Welcome to the Employee Management Tool, a robust web application designed to simplify the complexities of managing employee data. This app provides a user-friendly interface for the seamless addition, modification, and deletion of employee records, harnessing the power of Vue.js on the frontend and Django on the backend.
