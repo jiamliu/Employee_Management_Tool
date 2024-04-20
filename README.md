@@ -27,7 +27,8 @@ Before setting up the project, ensure you have the following installed:
 - Node.js and npm
 
 - ## Showcase
-![Apr-19-2024 23-51-57](https://github.com/jiamliu/Employee_Management_Tool/assets/139939637/56a8d360-b6e3-484f-a3c3-4f3706a2ef1a)
+![Apr-20-2024 00-12-00](https://github.com/jiamliu/Employee_Management_Tool/assets/139939637/d7107f80-91dc-4925-a88a-035e02576d7e)
+
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
